@@ -1,0 +1,3 @@
+scientists = ['Albert Einstein', 'Pythagoras', 'Isaac Newton' , 'Galileo Galilei']
+for i in range(len(scientists)):
+    print("I want to be like " + scientist[i].title() + ".")
